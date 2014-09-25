@@ -1,10 +1,6 @@
 ## TODO ##
-nano http://forum.xda-developers.com/showthread.php?t=1530519
-ssh
-scp
-Add update checker (same as scom)
+put in t959p gps firmware files
 
 ## DONE ##
-bash http://wistreetscene.com/roy/download/bash-arm
-busybox
+replaced the modem and kernel with t959p versions
 
