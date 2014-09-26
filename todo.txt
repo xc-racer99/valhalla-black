@@ -1,6 +1,7 @@
 ## TODO ##
-put in t959p gps firmware files
-
+debloat amap
+make functional swype
+make sure angrygps.apk works
 ## DONE ##
 replaced the modem and kernel with t959p versions
-
+put in t959p gps firmware files GPS now works!
