@@ -1,0 +1,6 @@
+#!/system/bin/sh
+
+sleep 60
+
+PPID=$(pidof org.zeam)
+echo "-17" > /proc/$PPID/oom_adj
